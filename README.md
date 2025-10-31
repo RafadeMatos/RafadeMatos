@@ -5,17 +5,25 @@
 ---
 
 ### 🧠 About Me
-> “Hello, Friend”
+> “Hello, Friend.”
 
 🧩 Computer Scientist & Researcher  
-🛠️ Ethical Hacker with focus on **cybersecurity**, **reverse engineering**.  
-📡 Always exploring how things work — and how to make them work better  
-⚙️ Java Engineering(OCA)
+🛠️ Firmware Architecture & Embedded Systems  
+⚙️ Java Engineer (OCA Certified)  
+📡 Specialized in low-level programming and compilers  
 
 ---
 
-### 💾 Featured Projects
+### 🔬 Current Focus
 
+- Studying compiler internals and optimization for low-level systems  
+- Building modular firmware for ESP32 / STM32  
+- Reverse engineering & embedded security  
+- Experimenting with RTOS and real-time scheduling  
+
+---
+
+### 💾 Featured Project
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RafadeMatos&repo=TofuLanguage&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C)](https://github.com/RafadeMatos/TofuLanguage)
@@ -28,6 +36,7 @@
 
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00FF9C)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
 ![Assembly](https://img.shields.io/badge/Assembly-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=00FF9C)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF9C)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
@@ -49,11 +58,17 @@
 
 ---
 
-### 🕶️ Connect <div align="center">
+### 🕶️ Connect
+<div align="center">
 <a href="https://instagram.com/rafisonrails?igsh=MWs3bHhxNGN5dHRoaQ==" target="_blank"> <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00FF9C" /> </a> 
 <a href="mailto:Rafaeldematosf@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF9C" /> </a> 
-<a href="https://www.linkedin.com/in/rafael-ferreira-c137?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /> 
-</a> </div>
+<a href="https://www.linkedin.com/in/rafael-ferreira-c137" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /> </a>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=606078&height=120&section=footer"/>
+
 
 <!-- 👀 You found the secret! Goodbye Friend -->
 
