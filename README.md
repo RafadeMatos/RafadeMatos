@@ -67,8 +67,6 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=606078&height=120&section=footer"/>
-
 
 <!-- 👀 You found the secret! Goodbye Friend -->
 
