@@ -8,8 +8,8 @@
 > “Hello, Friend.”
 
 🧩 Computer Scientist & Researcher  
-🛠️ Firmware Architecture & Embedded Systems  
-⚙️ Java Engineer (OCA Certified)  
+🛠️ Kernel Architecture 
+⚙️ Java Engineer (OCA Certified) // Rust // C++
 📡 Specialized in low-level programming and compilers  
 
 ---
@@ -17,7 +17,7 @@
 ### 🔬 Current Focus
 
 - Studying compiler internals and optimization for low-level systems  
-- Building modular firmware for ESP32 / STM32  
+- My scientific initiation consisted of  a study of relationship between the Kernel and the Userland
 - Reverse engineering & embedded security  
 - Experimenting with RTOS and real-time scheduling  
 
