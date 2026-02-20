@@ -33,7 +33,7 @@ Atuo na interseção entre **estatística**, **matemática** e **machine learnin
 <div align="center">
 
 <a href="https://github.com/RafadeMatos/Limites-da-Predicao">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafadeMatos&repo=Limites-da-Predicao&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C" alt="Readme Card" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafadeMatos&repo=Limites-da-Predicao&theme=radical&bg_color=0d1117&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9&hide_border=true" alt="Limites da Predição" />
 </a>
 
 </div>
